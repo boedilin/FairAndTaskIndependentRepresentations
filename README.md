@@ -1,4 +1,4 @@
-# FairAndTaskIndependentRepresentations
+# Fair And Task Independent Representations
 
 Training fair machine learning models, aiming for their interpretability and solving the problem of domain shift has gained a 
 lot of interest in the last years. There is a vast amount of work addressing this topics, mostly in separation. 
